@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ⚡- I'm a Wev Developer always looking to build cool projects and work with awesome people! 🧪
+
 ⚡- I love building Web Applications.
+
 ⚡- I’m currently working as a Shopify Full Stack Developer.
 
 
