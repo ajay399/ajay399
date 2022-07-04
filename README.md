@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+⚡- I'm a Wev Developer always looking to build cool projects and work with awesome people! 🧪
+⚡- I love building Web Applications.
+⚡- I’m currently working as a Shopify Full Stack Developer.
+
+
+
+
 <!--
 **ajay399/ajay399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
